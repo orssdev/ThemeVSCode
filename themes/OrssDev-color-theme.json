@@ -69,6 +69,7 @@
 		"scmGraph.foreground5":"#ff0000",
 		"icon.foreground":"#ffffff",
 		"checkbox.background":"#ff0000",
+		"debugToolBar.background":"#000000"
 		},
 	"tokenColors": [
 		{
