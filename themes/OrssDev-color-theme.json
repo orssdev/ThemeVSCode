@@ -69,7 +69,11 @@
 		"scmGraph.foreground5":"#ff0000",
 		"icon.foreground":"#ffffff",
 		"checkbox.background":"#ff0000",
-		"debugToolBar.background":"#000000"
+		"debugToolBar.background":"#000000",
+		"merge.commonHeaderBackground":"#8b000060",
+		"merge.currentContentBackground":"#2b000060",
+		"merge.incomingHeaderBackground":"#8b005460",
+		"merge.incomingContentBackground":"#2b005460"
 		},
 	"tokenColors": [
 		{
