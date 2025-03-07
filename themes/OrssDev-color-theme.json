@@ -47,7 +47,10 @@
 		"focusBorder":"#ff0000",
 		"statusBar.background":"#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
-		"editorLink.activeForeground":"#ff0000"
+		"editorLink.activeForeground":"#ff0000",
+		"pickerGroup.foreground":"#ff0000",
+		"quickInputList.focusIconForeground":"#ff0000",
+		"list.highlightForeground": "#ff0000",
 	},
 	"tokenColors": [
 		{
