@@ -29,6 +29,7 @@
 		"button.background":"#8b000060",
 		"button.foreground":"#ffffff",
 		"textLink.foreground":"#ff0000",
+		"textLink.activeForeground":"#ff0000",
 		"activityBarBadge.background":"#ff0000",
 		"list.activeSelectionBackground":"#8b000060",
 		"list.hoverBackground":"#8b000060",
